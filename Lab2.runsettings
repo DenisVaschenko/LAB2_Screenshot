@@ -1,0 +1,7 @@
+<RunSettings>
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <SIMULATE_DEFECTS>1</SIMULATE_DEFECTS>
+    </EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>
